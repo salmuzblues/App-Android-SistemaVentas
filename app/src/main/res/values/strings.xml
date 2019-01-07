@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyAppPedidoDelFarma</string>
+    <string-array name="monedaDe">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>CNY</item>
+    </string-array>
+    <string-array name="monedaA">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>CNY</item>
+    </string-array>
+</resources>
